@@ -40,5 +40,5 @@
   
 <blockquote><h3> 📫 Contact me</h3></blockquote>
 <ul>
-  <li><a href="mailto:arsene03092002@hotmail.com">arsene03092002@hotmail.com</a></li>
+  <li><a href="mailto:arsened.devwen@gmail.com">arsened.devweb@gmail.com</a></li>
 </ul>
