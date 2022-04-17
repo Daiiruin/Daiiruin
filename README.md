@@ -1,4 +1,4 @@
-<h1 align="auto">Hey, welcome ✌️</h1>
+<h1 align="auto">🔱 Hey, welcome ✌️</h1>
 
 <p>My name is Arsene, I am currently a student at <a href="https://hetic.net">HETIC</a> (a web school) in France.</p>
 <p>I already knew some languages like HTML, JS, CSS, Python etc...</p>
