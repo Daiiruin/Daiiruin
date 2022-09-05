@@ -1,7 +1,7 @@
 <h1 align="auto">🔱 Hey, welcome ✌️</h1>
 
 <p>My name is Arsene, I am currently a student at <a href="https://hetic.net">HETIC</a> (a web school) in France.</p>
-<p>My ambition is to work in cybersecurity. But for the moment I thrive in web development!</p>
+<p>My ambition is to work in cybersecurity 👨🏻‍💻. But for the moment I thrive in web development!</p>
 
 <hr>
 <h2>🕮 I already know</h2>
