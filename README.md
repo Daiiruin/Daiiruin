@@ -38,4 +38,4 @@ Lots of personal projects which will soon be available on my GitHub!
 | <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 
 ## 📫 How to reach me...
-<a href="https://linkedin.com/in/arsène dobrovolskyy" target="blank"><img align="div" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsène dobrovolskyy" height="30" width="40" />
+<a href="https://linkedin.com/in/arsène-dobrovolskyy-458045226/" target="blank"><img align="div" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsène dobrovolskyy" height="30" width="40" />
